@@ -1,0 +1,1 @@
+Core react implementation for learning purpose
